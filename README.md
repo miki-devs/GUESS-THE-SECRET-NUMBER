@@ -24,5 +24,5 @@ Un sencillo pero entretenido juego donde el objetivo es adivinar un número secr
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML5** → estructura del juego  
-- **CSS3** → estilos y diseño responsivo:contentReference[oaicite:1]{index=1}  
-- **JavaScript (ES6)** → lógica del juego:contentReference[oaicite:2]{index=2}
+- **CSS3** → estilos y diseño responsivo 
+- **JavaScript (ES6)** → lógica del juego
